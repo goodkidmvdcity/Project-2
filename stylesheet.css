@@ -1,0 +1,43 @@
+﻿body {
+}
+
+table {
+    width: 700px;
+    border: 3px solid black;
+}
+
+td, th
+{
+    border: 1px solid black;
+    width: 100px;
+}
+tbody
+{
+    text-align: right;
+}
+
+thead
+{  
+    background-color: lightblue;
+}
+
+.year
+{
+    text-align: left;
+}
+.pos
+{
+    color: darkblue;
+    padding-right: 3px;
+}
+
+.neg
+{
+    color: maroon;
+    padding-right: 3px;
+}
+
+.other
+{
+    padding-right: 3px;
+}
